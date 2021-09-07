@@ -1,1 +1,1 @@
-# MangerFinder
+# MangeFinder
