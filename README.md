@@ -1,1 +1,1 @@
-# MangeFinder
+# MangaFinder
